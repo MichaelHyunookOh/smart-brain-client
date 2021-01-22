@@ -1,0 +1,9 @@
+.statement {
+  display: flex;
+  justify-content: center;
+}
+
+.number {
+  display: flex;
+  justify-content: center;
+}
